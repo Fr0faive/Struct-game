@@ -1,9 +1,9 @@
 # Struct-game
 
-# Changelogs
+## Changelogs
 * Initial
 
-# Source Code
+## Source Code
 ```
 #include <iostream>
 using namespace std;
